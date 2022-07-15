@@ -1,0 +1,15 @@
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\bin\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.deps.json
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\bin\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.runtimeconfig.json
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\bin\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.runtimeconfig.dev.json
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\bin\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.dll
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\bin\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.pdb
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\obj\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.csproj.AssemblyReference.cache
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\obj\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\obj\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.AssemblyInfoInputs.cache
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\obj\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.AssemblyInfo.cs
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\obj\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.csproj.CoreCompileInputs.cache
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\obj\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.dll
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\obj\Debug\net5.0\refint\PRN221PE_SU22_LeMinhQuan.Repo.dll
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\obj\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.pdb
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\obj\Debug\net5.0\PRN221PE_SU22_LeMinhQuan.Repo.genruntimeconfig.cache
+D:\PRN_work\TEST_PRN211_SU22_LeMinhQuan\PRN221PE_SU22_LeMinhQuan.Repo\obj\Debug\net5.0\ref\PRN221PE_SU22_LeMinhQuan.Repo.dll
